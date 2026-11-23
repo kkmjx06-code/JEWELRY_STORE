@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 1200" role="img" aria-label="Silver jewelry material study">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d2d0c9"/><stop offset="1" stop-color="#c9c7c0"/></linearGradient><radialGradient id="metal"><stop stop-color="#fff"/><stop offset=".45" stop-color="#d5d6d2"/><stop offset="1" stop-color="#999c99"/></radialGradient></defs>
+<rect width="960" height="1200" fill="url(#bg)"/><circle cx="760" cy="180" r="240" fill="#fff" opacity=".12"/><path d="M0 920 Q300 790 960 920 V1200 H0Z" fill="#b7b4ad" opacity=".22"/>
+<g transform="translate(0 30)" filter="none"><ellipse cx="480" cy="420" rx="175" ry="98" fill="none" stroke="#c2c3bf" stroke-width="34"/><ellipse cx="480" cy="365" rx="175" ry="98" fill="none" stroke="#f9f9f6" stroke-width="22"/><ellipse cx="480" cy="310" rx="175" ry="98" fill="none" stroke="#aeb0ad" stroke-width="22"/></g>
+<g fill="#77746f" font-family="Arial,sans-serif" letter-spacing="7"><text x="70" y="1050" font-size="24">NORME. / MATERIAL / FORM</text><text x="70" y="1095" font-size="14">THE BEAUTY OF FORM</text></g></svg>
